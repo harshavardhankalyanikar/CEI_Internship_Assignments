@@ -1,0 +1,87 @@
+Question,Answer,Retrieved Chunks,Time (sec)
+What is the candidate's name?,HARSHAVARDHAN KALYANIKAR,3,0.33
+What is the highest educational qualification?,Bachelor of Technology (B.Tech.) in Artificial Intelligence and Machine Learning.,3,0.22
+Which programming languages does the candidate know?,"The candidate knows the following programming languages: 
+1. Python
+2. Java
+3. JavaScript
+4. C
+5. C++",3,0.38
+What machine learning projects has the candidate completed?,"The candidate, Vivek Chauhan, has completed the following machine learning projects:
+
+1. Fraud Detection Pipeline: Built a real-time fraud scoring pipeline using gradient boosted trees and streaming features, deployed behind a low-latency API.
+2. Fraud Detection Model: Built a fraud detection model using gradient boosted trees, improving precision on flagged transactions by 18%.",3,0.41
+What technical skills are listed in the resume?,"The technical skills listed in the resume are:
+
+1. Programming Languages:
+   - Python
+   - Java
+   - JavaScript
+   - C
+   - C++
+2. Frontend:
+   - HTML
+   - CSS
+   - React
+   - Streamlit
+3. Backend:
+   - Node.js
+   - Express.js
+   - FastAPI
+   - REST API
+   - WebSockets
+   - Python
+   - JavaScript
+4. Database:
+   - MySQL
+   - Supabase (PostgreSQL)
+   - Firebase
+   - PL/SQL
+5. Tools:
+   - Git
+   - GitHub
+   - VS Code
+   - Docker
+   - JWT
+6. Core CS Concepts:
+   - DBMS
+   - Computer Networks
+7. Additional Skills:
+   - Python
+   - PyTorch
+   - scikit-learn
+   - FAISS
+   - LangChain
+   - Hugging Face Transformers
+   - SQL
+   - Docker
+   - Cloud deployment on AWS",3,0.51
+What internships has the candidate completed?,AI/ML Virtual Internship Certification,3,0.2
+Which certifications are mentioned?,"The certifications mentioned are:
+
+1. Oracle Certified : Database Programming with SQL
+2. Oracle Certified : Database Design
+3. Python
+4. Java
+5. C
+6. HTML
+7. CSS
+8. JavaScript
+9. DBMS",3,0.41
+What are the candidate's contact details?,"The candidate's contact details are:
+
+Email: harshavardhankalyanikar@gmail.com
+Phone: +91 7093006980
+LinkedIn: harsha_linkedin
+GitHub: harsha_git",3,0.22
+What tools and frameworks has the candidate worked with?,"The candidate, Vivek Chauhan, has worked with the following tools and frameworks:
+
+1. Programming languages: Python
+2. Machine learning frameworks: PyTorch, scikit-learn
+3. Vector search library: FAISS
+4. Natural language processing library: Hugging Face Transformers
+5. LangChain (a framework for building conversational AI systems)
+6. SQL (for database management)
+7. Containerization: Docker
+8. Cloud deployment: AWS",3,0.4
+Summarize the candidate's profile.,"The candidate, Harshavardhan Kalyanikar, is a problem-driven Computer Science Engineering student with a strong foundation in programming and project management. He is passionate about solving real-world problems by applying Data Structures and Algorithms.",3,0.3

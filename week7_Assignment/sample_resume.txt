@@ -1,0 +1,43 @@
+Vivek Chauhan
+Data Scientist / Machine Learning Engineer
+
+Summary
+Vivek is a data scientist specializing in machine learning, natural language processing,
+and generative AI systems. He has hands-on experience designing and deploying
+retrieval-augmented generation (RAG) pipelines for enterprise search, chatbot, and
+knowledge-assistant applications.
+
+Experience
+Machine Learning Engineer, Fintech Startup (2022 - 2024)
+Built a fraud detection model using gradient boosted trees, improving precision on
+flagged transactions by 18%. Worked closely with the data engineering team to build
+streaming feature pipelines on AWS.
+
+NLP Engineer, AI Research Team (2024 - Present)
+Designed and shipped a document question-answering system using vector databases and
+large language models. Owned the retrieval component end to end: chunking strategy,
+embedding model selection, vector index tuning, and hybrid keyword + semantic search.
+
+Education
+Bachelor of Technology in Computer Science, with a specialization in Artificial
+Intelligence and Data Structures.
+
+Skills
+Python, PyTorch, scikit-learn, FAISS, LangChain, Hugging Face Transformers, SQL,
+Docker, and cloud deployment on AWS.
+
+Projects
+RAG Document Question Answering System
+Built an end-to-end Retrieval-Augmented Generation system that ingests PDFs and text
+files, splits them into overlapping chunks, embeds each chunk using a sentence
+embedding model, stores the vectors in a FAISS-backed vector database, and generates
+grounded answers to user questions using a language model conditioned on retrieved
+context. Added hybrid retrieval (BM25 + vector similarity) and a cross-encoder
+re-ranking layer to improve answer relevance.
+
+Fraud Detection Pipeline
+Built a real-time fraud scoring pipeline using gradient boosted trees and streaming
+features, deployed behind a low-latency API.
+
+Certifications
+Deep Learning Specialization, Machine Learning Engineering for Production (MLOps).
